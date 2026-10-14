@@ -1,0 +1,122 @@
+1. 
+
+	a) What conclusion can you reach about the responses to this question?
+
+		What I can conclude is that the responses, in general, are all about being prepared ahead of time to ensure punctuality.
+
+	b) Is the default summary or visualization helpful? How could it be improved?
+
+		The visualization is helpful. One thing that could be improved is some of the words in the word cloud. Some of them don't provide enough context.
+
+	c) For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+		Since it is a written response, the answers vary a lot more and you can't make out a trend from it.
+
+	d) Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+		I would probably limit the response options by using multiple choice answers.
+
+
+2.
+
+	a) What conclusion can you reach about the responses to this question?
+
+		What I can conclude from the responses is that most people don't have a second monitor.
+
+	b) Is the default summary or visualization helpful? How could it be improved?
+
+		The default summary wasn't much helpful. What it displays is different from what the actual responses are saying. To improve it, the survey should correctly tally up the responses in each option.
+
+	c) For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+		You can find the actual text of those responses in "More details". Working with this data is tricky because the user might have another option in mind, not shown.
+
+	d) Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+		The response options are easy to follow. Therefore, I don't see any need for improvement.
+
+
+3.
+
+	a) What conclusion can you reach about the responses to this question?
+
+		What I can conclude is that the responses is that most people don't have external keyboard and mouse.
+
+	b) Is the default summary or visualization helpful? How could it be improved?
+
+		Similar to survey question 2, the default summary wasn't much helpful. What it displays is different from what the actual responses are saying. To improve it, the survey should correctly tally up the responses in each option.
+
+	c) For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+	
+		You can find the actual text of those responses in "More details". Working with this data is tricky because the user might have another option in mind, not shown.
+
+	d) Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+		This question was easy to answer. Hence, there is no need to rephrase it.
+
+
+4.
+
+	a) What conclusion can you reach about the responses to this question?
+
+		What I can conclude is that the responses are split between on paper and on computer.
+
+	b) Is the default summary or visualization helpful? How could it be improved?
+
+		The detailed summary doesn't display all the response options. To improve it, the survey should correctly tally up the responses and display all of them.
+
+	c) For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+	
+		You can find the actual text of those responses in "More details". Working with this data is tricky because the user might have another option in mind, not shown.
+
+	d) Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+		This question was easy to answer. Hence, there is no need to rephrase it.
+
+5.
+
+	a) What conclusion can you reach about the responses to this question?
+
+		What I can conclude is that the responses, in general, are all about developing data analytics skills.
+
+	b) Is the default summary or visualization helpful? How could it be improved?
+
+		The visualization is helpful, it succinctly informs what the responses are about. I don't see any need for improvements.
+
+	c) For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+		Since it is a written response, the answers vary a lot more and it's hard to decipher a trend from it.
+
+	d) Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+		The question is clear and straightforward. There is no need to rephrase it.
+
+6. Is there anything that surprised you about the survey responses?
+
+	No. There wasn't anything particular that stood out to me.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+
+	After looking at some responses, I'm thinking about having breakfast before class starts so that I have energy to push through the lectures.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+
+	What I think can help in my approach to teaching this class is going over what skills are valuable in work-based experience.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+
+	I think there are pros and cons to this. The student might want to keep their identity private. But at the same time, it might be helpful if the instructor knew who the responses came from so that they can tailor solutions to each student.
